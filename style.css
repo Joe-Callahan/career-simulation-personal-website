@@ -2,7 +2,6 @@ body {
   background-color: darkred;
 }
 
-
 header {
   background-color: darkred;
   color: gold;
@@ -14,7 +13,7 @@ header {
   text-decoration: none;
 }
 
-#home-intro {
+.picture-text-box {
   border-style: groove;
   border-size: 15px;
   border-color:blue;
@@ -27,7 +26,7 @@ header {
   display: inline-flex;
 }
 
-#home-photo {
+img {
   height: 300px;
   width: 225px;
 }
