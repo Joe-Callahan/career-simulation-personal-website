@@ -1,0 +1,15 @@
+body {
+  background-color: darkred;
+}
+
+
+header {
+  background-color: darkred;
+  color: gold;
+  text-align: center;
+}
+
+.internal_link {
+  color: gold;
+  text-decoration: none;
+}
