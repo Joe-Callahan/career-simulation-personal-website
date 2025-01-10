@@ -8,6 +8,11 @@ header {
   text-align: center;
 }
 
+footer {
+  background-color: darkred;
+  color: gold;
+}
+
 .internal_link {
   color: gold;
   text-decoration: none;
