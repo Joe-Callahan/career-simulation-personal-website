@@ -13,3 +13,21 @@ header {
   color: gold;
   text-decoration: none;
 }
+
+#home-intro {
+  border-style: groove;
+  border-size: 15px;
+  border-color:blue;
+  border-radius: 5%;
+  column-count: 2;
+  background-color: whitesmoke;
+  text-align: center;
+  margin: 60px;
+  padding: 10px;
+  display: inline-flex;
+}
+
+#home-photo {
+  height: 300px;
+  width: 225px;
+}
